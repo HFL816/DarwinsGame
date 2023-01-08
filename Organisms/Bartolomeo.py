@@ -40,3 +40,5 @@ class CaniBody(wc.Food):
 
     def __init__(self, til, body_val):
         super(CaniBody, self).__init__(til, val=body_val)
+        
+        
